@@ -1,8 +1,8 @@
 <table style="border:none">
 <tr>
-  <td style="vertical-align: top">
+  <!-- <td style="vertical-align: top">
     <img width="300" alt="hello!" src="https://avatars.githubusercontent.com/u/85853517?v=4" >
-  </td>
+  </td> -->
 
   <td>
 
