@@ -1,10 +1,10 @@
-<table style="border:none">
+<!-- <table style="border:none">
 <tr>
-  <!-- <td style="vertical-align: top">
+  <td style="vertical-align: top">
     <img width="300" alt="hello!" src="https://avatars.githubusercontent.com/u/85853517?v=4" >
-  </td> -->
+  </td>
 
-  <td>
+  <td> -->
 
 Hi, I'm <a font:>**Dimon**</a>. Another [me](https://github.com/Haruko386). I mainly handle maintenance and management tasks for the project.
 
